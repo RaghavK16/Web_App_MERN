@@ -1,3 +1,7 @@
+# Web App using MERN
+
+A basic and easy-to-understand e-commerce web application using the famous MERN Stack.
+
 ## Setup
 
 ```
