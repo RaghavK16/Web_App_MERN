@@ -4,8 +4,24 @@
 
 A basic and easy-to-understand e-commerce web application using the famous MERN Stack.
 
-## Setup
+## Project Setup
 
+* git clone this repo
+* Install all dependencies for both the front-end and back-end
+* Make sure MongoDB is running (mongod), then start your Node and React servers 
+* Ensure both servers are up and running by visiting their existing endpoints in your browser
+
+## Running the project
+
+```
+cd projfront
+```
+```
+npm i && npm start
+```
+```
+cd projback
+```
 ```
 npm i && npm start
 ```
