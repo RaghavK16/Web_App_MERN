@@ -1,6 +1,6 @@
 # Web App using MERN
 
-![alt text](https://github.com/raghavk16/Web_App_MERN/blob/master/My_Store.png?raw=true)
+![MERN_Home](https://github.com/raghavk16/Web_App_MERN/blob/master/My_Store.png?raw=true)
 
 A basic and easy-to-understand e-commerce web application using the famous MERN Stack.
 
