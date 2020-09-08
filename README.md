@@ -8,6 +8,8 @@
 
 ## Project Setup
 
+* Fork the repo, Star the repo
+
 * Git clone this repo
 
 * Install all dependencies for both the front-end and back-end
