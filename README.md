@@ -4,6 +4,8 @@
 
 * A basic and easy-to-understand e-commerce Web Application using MERN Stack.
 
+* Fully-functional website from Front-End to Back-End.
+
 * I've also integrated Stripe Payment Gateway for Payment checkout facility.
 
 ## Project Setup
